@@ -1,9 +1,9 @@
 {
-	"name": "pipeline3",
+	"name": "pipeline for ingestion",
 	"properties": {
 		"activities": [
 			{
-				"name": "Copy data1",
+				"name": "pipeline for ingestion",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
