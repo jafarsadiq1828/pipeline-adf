@@ -1,0 +1,9 @@
+{
+	"name": "projectfactorypipe",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "64dabf6c-7d96-48b1-a316-4ef761518619",
+		"tenantId": "b5dc206c-17fd-4b06-8bc8-24f0bb650229"
+	}
+}
